@@ -27,15 +27,6 @@ const perguntas = [
       correta: 1
     },
     {
-      pergunta: "O que é uma função de callback em JavaScript?",
-      respostas: [
-        "Uma função que é chamada antes de outra função.",
-        "Uma função que é passada como argumento para outra função e é executada após algum evento.",
-        "Uma função que é chamada recursivamente.",
-      ],
-      correta: 1
-    },
-    {
       pergunta: "Qual método é usado para concatenar duas ou mais strings em JavaScript?",
       respostas: [
         "concat()",
@@ -44,15 +35,7 @@ const perguntas = [
       ],
       correta: 0
     },
-    {
-      pergunta: "O que é um closure em JavaScript?",
-      respostas: [
-        "Um objeto JavaScript.",
-        "Um tipo de erro em JavaScript.",
-        "Uma função interna que tem acesso às variáveis da função externa, mesmo após a função externa ter retornado.",
-      ],
-      correta: 2
-    },
+
     {
       pergunta: "Qual é o operador de atribuição em JavaScript?",
       respostas: [
@@ -88,7 +71,26 @@ const perguntas = [
         "Um método para declarar funções em JavaScript.",
       ],
       correta: 1
+    },
+    {
+      pergunta: "Qual é o resultado da expressão '10' + 10 em JavaScript?",
+      respostas: [
+        "'1010'",
+         "20",
+        "'20'",
+      ],
+      correta: 0
+    },
+    {
+      pergunta: "Como você escreveria um comentário de uma linha em JavaScript?",
+      respostas: [
+         "// Isso é um comentário de uma linha",
+         "/* Isso é um comentário de uma linha */",
+         "<!-- Isso é um comentário de uma linha -->",
+      ],
+      correta: 0
     }
+          
   ];
   
   const quiz = document.querySelector('#quiz')
