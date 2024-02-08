@@ -11,9 +11,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="https://github.com/rocketseat-education/nlw-expert-html-css-js/raw/812d96314beac3cdcc7dc5b2d7812db3678d5c43/.github/preview.png>
-</p>
 
 <br>
 
@@ -41,7 +38,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
-<<<<<<< HEAD
-=======
 
 
